@@ -1,0 +1,9 @@
+Metoda Forda Fulkersona znajduje swoje szerokie zastosowanie w znajdowaniu maksymaklnego przepływu sieci przepływowej. 
+Metoda znajduje swoje szerokie zastosowanie w różnych dziedzinach. Jednym z przykładów praktycznego zastosowania algorytmu jest rozwiązywanie problemu 
+manewru wojsk - w takim przyapdku model zawiera dane z cyfrowej mapy terenu. ALgorytm Forda - Fulkersona wykorzystamy również w rozwiązywaniu problemów 
+transportowych - np. sytuacja, w której prowadzimy eksport produktu ze wskazanego państwa, dokładniej z różnych jego miast, do określontch importerów, 
+z zachowaniem pewnych parametrów przepływu i przekroju. Również liczne zagadnienia sieciowe efektywnie wykorzystują tę metodę. 
+Powyższe przykłady zakładają znalezienie maksymalnego przepływu, ale metoda Forda - Fulkersona może posłużyć nam również do znalezienia minimalnego przekroju. 
+Metoda ma wiele realizacji, jedną z nich jest algorytm Edmondsa - Karpa. do rozwiązywania problemów maksymalnego przepływu możemy również skorzystać z algorytmu 
+Dinica, który jest zbliżony strukturalnie do algorytmu Edmondsa - Karpa; algorytm Dinica zalcizamy do realizacji metody przepływu blokującego. 
+Do tej grupy zaliczamy też algorytm MKM (inaczej nazywany algorytmem 3 hindusów).
